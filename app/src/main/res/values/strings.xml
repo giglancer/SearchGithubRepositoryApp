@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SearchGithubRepositoryApp</string>
+    <string name="search_text">Github Repository Searching</string>
+    <string name="search_edit_hint">リポジトリ名</string>
+    <string name="search_button">検索</string>
+    <string name="error_text">値が空です</string>
+    <string name="result_title">検索キーワード:</string>
 </resources>
